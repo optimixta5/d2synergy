@@ -1,0 +1,230 @@
+{
+    "1": {
+        "Activity": "Last Wish",
+        "Boss": "Kalli",
+        "Crit": "2",
+        "HP": "10044436"
+    },
+    "2": {
+        "Activity": "Last Wish",
+        "Boss": "Shuro Chi",
+        "Crit": "2",
+        "HP": "8723747"
+    },
+    "3": {
+        "Activity": "Last Wish",
+        "Boss": "Morgeth",
+        "Crit": "0.6",
+        "HP": "4513362"
+    },
+    "4": {
+        "Activity": "Last Wish",
+        "Boss": "Riven",
+        "Crit": "0.6",
+        "HP": "5683995"
+    },
+    "5": {
+        "Activity": "Garden of Salvation",
+        "Boss": "Consecrated Mind",
+        "Crit": "1",
+        "HP": "5098741"
+    },
+    "6": {
+        "Activity": "Garden of Salvation",
+        "Boss": "Sanctified Mind",
+        "Crit": "1",
+        "HP": "6692700"
+    },
+    "7": {
+        "Activity": "Deep Stone Crypt",
+        "Boss": "Crypt Security",
+        "Crit": "0.7",
+        "HP": "992880"
+    },
+    "8": {
+        "Activity": "Deep Stone Crypt",
+        "Boss": "Atraks",
+        "Crit": "1.6",
+        "HP": "2586627"
+    },
+    "9": {
+        "Activity": "Deep Stone Crypt",
+        "Boss": "Taniks",
+        "Crit": "1",
+        "HP": "9515895"
+    },
+    "10": {
+        "Activity": "Vault of Glass",
+        "Boss": "Templar",
+        "Crit": "1",
+        "HP": "6300377"
+    },
+    "11": {
+        "Activity": "Vault of Glass",
+        "Boss": "Atheon",
+        "Crit": "1",
+        "HP": "8953160"
+    },
+    "12": {
+        "Activity": "Vow of the Disciple",
+        "Boss": "Caretaker",
+        "Crit": "1",
+        "HP": "12338125"
+    },
+    "13": {
+        "Activity": "Vow of the Disciple",
+        "Boss": "Rhulk",
+        "Crit": "1",
+        "HP": "13058851"
+    },
+    "14": {
+        "Activity": "King's Fall",
+        "Boss": "Warpriest",
+        "Crit": "1",
+        "HP": "16100403"
+    },
+    "15": {
+        "Activity": "King's Fall",
+        "Boss": "Golgoroth",
+        "Crit": "1",
+        "HP": "13645321"
+    },
+    "16": {
+        "Activity": "King's Fall",
+        "Boss": "Daughters",
+        "Crit": "1",
+        "HP": "5593659"
+    },
+    "17": {
+        "Activity": "King's Fall",
+        "Boss": "Oryx",
+        "Crit": "1",
+        "HP": "14969898"
+    },
+    "18": {
+        "Activity": "Root of Nightmares",
+        "Boss": "Explicator",
+        "Crit": "1",
+        "HP": "9542276"
+    },
+    "19": {
+        "Activity": "Root of Nightmares",
+        "Boss": "Nezarec",
+        "Crit": "1",
+        "HP": "8731311"
+    },
+    "20": {
+        "Activity": "Crota's End",
+        "Boss": "Ir Yut",
+        "Crit": "1",
+        "HP": "10232269"
+    },
+    "21": {
+        "Activity": "Crota's End",
+        "Boss": "Crota",
+        "Crit": "1",
+        "HP": "15940755"
+    },
+    "22": {
+        "Activity": "The Shattered Throne",
+        "Boss": "Vorgeth",
+        "Crit": "1",
+        "HP": "985110"
+    },
+    "23": {
+        "Activity": "The Shattered Throne",
+        "Boss": "Dul Incaru",
+        "Crit": "0.57",
+        "HP": "509510"
+    },
+    "24": {
+        "Activity": "Pit of Heresy",
+        "Boss": "Zulmak",
+        "Crit": "1",
+        "HP": "2656280"
+    },
+    "25": {
+        "Activity": "Prophecy",
+        "Boss": "Phalanx Echo",
+        "Crit": "1",
+        "HP": "1634057"
+    },
+    "26": {
+        "Activity": "Prophecy",
+        "Boss": "Kell Echo",
+        "Crit": "1",
+        "HP": "4473801"
+    },
+    "27": {
+        "Activity": "Grasp of Avarice",
+        "Boss": "Phry'zhia",
+        "Crit": "1",
+        "HP": "4339871"
+    },
+    "28": {
+        "Activity": "Grasp of Avarice",
+        "Boss": "Avarokk",
+        "Crit": "1",
+        "HP": "4677314"
+    },
+    "29": {
+        "Activity": "Duality",
+        "Boss": "Gahlran",
+        "Crit": "1",
+        "HP": "4544346"
+    },
+    "30": {
+        "Activity": "Duality",
+        "Boss": "Ka'hok Emonut Uroa",
+        "Crit": "1",
+        "HP": "926830"
+    },
+    "31": {
+        "Activity": "Duality",
+        "Boss": "Caiatl",
+        "Crit": "1",
+        "HP": "4020963"
+    },
+    "32": {
+        "Activity": "Spire of the Watcher",
+        "Boss": "Akelous",
+        "Crit": "1",
+        "HP": "4736368"
+    },
+    "33": {
+        "Activity": "Spire of the Watcher",
+        "Boss": "Persys",
+        "Crit": "1",
+        "HP": "6230419"
+    },
+    "34": {
+        "Activity": "Ghosts of the Deep",
+        "Boss": "Ecthar",
+        "Crit": "1",
+        "HP": "7829461"
+    },
+    "35": {
+        "Activity": "Ghosts of the Deep",
+        "Boss": "Simmumah",
+        "Crit": "1",
+        "HP": "6653184"
+    },
+    "36": {
+        "Activity": "Warlord's Ruin",
+        "Boss": "Rathil",
+        "Crit": "1",
+        "HP": "4708542"
+    },
+    "37": {
+        "Activity": "Warlord's Ruin",
+        "Boss": "Locus",
+        "Crit": "1",
+        "HP": "10667612"
+    },
+    "38": {
+        "Activity": "Warlord's Ruin",
+        "Boss": "Hefnd",
+        "Crit": "1",
+        "HP": "11055956"
+    }
+}

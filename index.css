@@ -1,90 +1,92 @@
 :root {
-  --dark-text: #f0f2ed;
-  --dark-background: #050604;
-  --dark-primary: #818f66;
-  --dark-secondary: #374e41;
-  --dark-accent: #50716c;
+    --dark-text: #f3fee1;
+    --dark-background: #090f00;
+    --dark-primary: #818f66;
+    --dark-secondary: #374e41;
+    --dark-accent: #50716c;
 
-  --light-text: #10120d;
-  --light-background: #fbfcfa;
-  --light-primary: #8a996e;
-  --light-secondary: #b0c7ba;
-  --light-accent: #8eafaa;
+    --light-text: #131e01;
+    --light-background: #f9fff0;
+    --light-primary: #8c9970;
+    --light-secondary: #b1c8bb;
+    --light-accent: #8eafaa;
 }
+
 :root {
-  --text: var(--light-text);
-  --background: var(--light-background);
-  --primary: var(--light-primary);
-  --secondary: var(--light-secondary);
-  --accent: var(--light-accent);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --text: var(--dark-text);
-    --background: var(--dark-background);
-    --primary: var(--dark-primary);
-    --secondary: var(--dark-secondary);
-    --accent: var(--dark-accent);
-  }
-}
-
-@media (prefers-color-scheme: light) {
-  :root {
     --text: var(--light-text);
     --background: var(--light-background);
     --primary: var(--light-primary);
     --secondary: var(--light-secondary);
     --accent: var(--light-accent);
-  }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --text: var(--dark-text);
+        --background: var(--dark-background);
+        --primary: var(--dark-primary);
+        --secondary: var(--dark-secondary);
+        --accent: var(--dark-accent);
+    }
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --text: var(--light-text);
+        --background: var(--light-background);
+        --primary: var(--light-primary);
+        --secondary: var(--light-secondary);
+        --accent: var(--light-accent);
+    }
 }
 
 .dark {
-  --text: var(--dark-text);
-  --background: var(--dark-background);
-  --primary: var(--dark-primary);
-  --secondary: var(--dark-secondary);
-  --accent: var(--dark-accent);
+    --text: var(--dark-text);
+    --background: var(--dark-background);
+    --primary: var(--dark-primary);
+    --secondary: var(--dark-secondary);
+    --accent: var(--dark-accent);
 }
 
 .light {
-  --text: var(--light-text);
-  --background: var(--light-background);
-  --primary: var(--light-primary);
-  --secondary: var(--light-secondary);
-  --accent: var(--light-accent);
+    --text: var(--light-text);
+    --background: var(--light-background);
+    --primary: var(--light-primary);
+    --secondary: var(--light-secondary);
+    --accent: var(--light-accent);
 }
 
 body {
-  color: var(--text);
-  background-color: var(--background);
-  display: flex;
-  flex-flow: column nowrap;
+    font-family: monospace;
+    color: var(--text);
+    background-color: var(--background);
+    display: flex;
+    flex-flow: column nowrap;
 }
 
 button {
-  all: unset;
-  width: fit-content;
-  user-select: none;
-  padding: 1%;
-  background-color: var(--primary);
-  color: var(--background);
-  border-radius: 1vw;
+    all: unset;
+    width: fit-content;
+    user-select: none;
+    padding: 1%;
+    background-color: var(--primary);
+    color: var(--background);
+    border-radius: 1vw;
 }
 
 button:hover {
-  background-color: var(--secondary);
-  color: var(--color-text);
-  box-shadow: 0px 0px 2vw var(--accent);
+    background-color: var(--secondary);
+    color: var(--color-text);
+    box-shadow: 0px 0px 2vw var(--accent);
 }
 
 button:active {
-  background-color: var(--primary);
-  color: var(--background);
+    background-color: var(--primary);
+    color: var(--background);
 }
 
 #darkmode {
-  position: absolute;
-  top: 1vh;
-  right: 1vw;
+    position: absolute;
+    top: 1vh;
+    right: 1vw;
 }

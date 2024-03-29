@@ -1,0 +1,224 @@
+{
+    "Last Wish": [
+        {
+            "Boss": "Kalli",
+            "Crit": "2",
+            "HP": "10044436"
+        },
+        {
+            "Boss": "Shuro Chi",
+            "Crit": "2",
+            "HP": "8723747"
+        },
+        {
+            "Boss": "Morgeth",
+            "Crit": "0.6",
+            "HP": "4513362"
+        },
+        {
+            "Boss": "Riven",
+            "Crit": "0.6",
+            "HP": "5683995"
+        }
+    ],
+    "Garden of Salvation": [
+        {
+            "Boss": "Consecrated Mind",
+            "Crit": "1",
+            "HP": "5098741"
+        },
+        {
+            "Boss": "Sanctified Mind",
+            "Crit": "1",
+            "HP": "6692700"
+        }
+    ],
+    "Deep Stone Crypt": [
+        {
+            "Boss": "Crypt Security",
+            "Crit": "0.7",
+            "HP": "992880"
+        },
+        {
+            "Boss": "Atraks",
+            "Crit": "1.6",
+            "HP": "2586627"
+        },
+        {
+            "Boss": "Taniks",
+            "Crit": "1",
+            "HP": "9515895"
+        }
+    ],
+    "Vault of Glass": [
+        {
+            "Boss": "Templar",
+            "Crit": "1",
+            "HP": "6300377"
+        },
+        {
+            "Boss": "Atheon",
+            "Crit": "1",
+            "HP": "8953160"
+        }
+    ],
+    "Vow of the Disciple": [
+        {
+            "Boss": "Caretaker",
+            "Crit": "1",
+            "HP": "12338125"
+        },
+        {
+            "Boss": "Rhulk",
+            "Crit": "1",
+            "HP": "13058851"
+        }
+    ],
+    "King's Fall": [
+        {
+            "Boss": "Warpriest",
+            "Crit": "1",
+            "HP": "16100403"
+        },
+        {
+            "Boss": "Golgoroth",
+            "Crit": "1",
+            "HP": "13645321"
+        },
+        {
+            "Boss": "Daughters",
+            "Crit": "1",
+            "HP": "5593659"
+        },
+        {
+            "Boss": "Oryx",
+            "Crit": "1",
+            "HP": "14969898"
+        }
+    ],
+    "Root of Nightmares": [
+        {
+            "Boss": "Explicator",
+            "Crit": "1",
+            "HP": "9542276"
+        },
+        {
+            "Boss": "Nezarec",
+            "Crit": "1",
+            "HP": "8731311"
+        }
+    ],
+    "Crota's End": [
+        {
+            "Boss": "Ir Yut",
+            "Crit": "1",
+            "HP": "10232269"
+        },
+        {
+            "Boss": "Crota",
+            "Crit": "1",
+            "HP": "15940755"
+        }
+    ],
+    "The Shattered Throne": [
+        {
+            "Boss": "Vorgeth",
+            "Crit": "1",
+            "HP": "985110"
+        },
+        {
+            "Boss": "Dul Incaru",
+            "Crit": "0.57",
+            "HP": "509510"
+        }
+    ],
+    "Pit of Heresy": [
+        {
+            "Boss": "Zulmak",
+            "Crit": "1",
+            "HP": "2656280"
+        }
+    ],
+    "Prophecy": [
+        {
+            "Boss": "Phalanx Echo",
+            "Crit": "1",
+            "HP": "1634057"
+        },
+        {
+            "Boss": "Kell Echo",
+            "Crit": "1",
+            "HP": "4473801"
+        }
+    ],
+    "Grasp of Avarice": [
+        {
+            "Boss": "Phry'zhia",
+            "Crit": "1",
+            "HP": "4339871"
+        },
+        {
+            "Boss": "Avarokk",
+            "Crit": "1",
+            "HP": "4677314"
+        }
+    ],
+    "Duality": [
+        {
+            "Boss": "Gahlran",
+            "Crit": "1",
+            "HP": "4544346"
+        },
+        {
+            "Boss": "Ka'hok Emonut Uroa",
+            "Crit": "1",
+            "HP": "926830"
+        },
+        {
+            "Boss": "Caiatl",
+            "Crit": "1",
+            "HP": "4020963"
+        }
+    ],
+    "Spire of the Watcher": [
+        {
+            "Boss": "Akelous",
+            "Crit": "1",
+            "HP": "4736368"
+        },
+        {
+            "Boss": "Persys",
+            "Crit": "1",
+            "HP": "6230419"
+        }
+    ],
+    "Ghosts of the Deep": [
+        {
+            "Boss": "Ecthar",
+            "Crit": "1",
+            "HP": "7829461"
+        },
+        {
+            "Boss": "Simmumah",
+            "Crit": "1",
+            "HP": "6653184"
+        }
+    ],
+    "Warlord's Ruin": [
+        {
+            "Boss": "Rathil",
+            "Crit": "1",
+            "HP": "4708542"
+        },
+        {
+            "Boss": "Locus",
+            "Crit": "1",
+            "HP": "10667612"
+        },
+        {
+            "Boss": "Hefnd",
+            "Crit": "1",
+            "HP": "11055956"
+        }
+    ]
+}
