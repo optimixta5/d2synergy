@@ -3,222 +3,268 @@
         {
             "Boss": "Kalli",
             "Crit": "2",
-            "HP": "10044436"
+            "HP": "10044436",
+            "Time": "40"
         },
         {
             "Boss": "Shuro Chi",
             "Crit": "2",
-            "HP": "8723747"
+            "HP": "1453958",
+            "Time": "10",
+            "Phases": "6",
+            "RAHHHHHHH": ":(("
         },
         {
             "Boss": "Morgeth",
             "Crit": "0.6",
-            "HP": "4513362"
+            "HP": "4513362",
+            "Time": "25"
         },
         {
             "Boss": "Riven",
             "Crit": "0.6",
-            "HP": "5683995"
+            "HP": "5683995",
+            "Time": "12"
         }
     ],
     "Garden of Salvation": [
         {
             "Boss": "Consecrated Mind",
             "Crit": "1",
-            "HP": "5098741"
+            "HP": "5098741",
+            "Time": "20"
         },
         {
             "Boss": "Sanctified Mind",
             "Crit": "1",
-            "HP": "6692700"
+            "HP": "6692700",
+            "Time": "15"
         }
     ],
     "Deep Stone Crypt": [
         {
             "Boss": "Crypt Security",
             "Crit": "0.7",
-            "HP": "992880"
+            "HP": "992880",
+            "Time": "45"
         },
         {
             "Boss": "Atraks",
             "Crit": "1.6",
-            "HP": "2586627"
+            "HP": "2586627",
+            "Time": "5"
         },
         {
             "Boss": "Taniks",
             "Crit": "1",
-            "HP": "9515895"
+            "HP": "9515895",
+            "Time": "30"
         }
     ],
     "Vault of Glass": [
         {
             "Boss": "Templar",
             "Crit": "1",
-            "HP": "6300377"
+            "HP": "6300377",
+            "Time": "12"
         },
         {
             "Boss": "Atheon",
             "Crit": "1",
-            "HP": "8953160"
+            "HP": "8953160",
+            "Time": "30"
         }
     ],
     "Vow of the Disciple": [
         {
             "Boss": "Caretaker",
             "Crit": "1",
-            "HP": "12338125"
+            "HP": "12338125",
+            "Time": "30",
+            "RAHHHHHHH": ":(("
         },
         {
             "Boss": "Rhulk",
             "Crit": "1",
-            "HP": "13058851"
+            "HP": "13058851",
+            "Time": "35"
         }
     ],
     "King's Fall": [
         {
             "Boss": "Warpriest",
             "Crit": "1",
-            "HP": "16100403"
+            "HP": "16100403",
+            "Time": "45"
         },
         {
             "Boss": "Golgoroth",
             "Crit": "1",
-            "HP": "13645321"
+            "HP": "13645321",
+            "Time": "80",
+            "RAHHHHHHH": ":(("
         },
         {
             "Boss": "Daughters",
             "Crit": "1",
-            "HP": "5593659"
+            "HP": "5593659",
+            "Time": "15",
+            "RAHHHHHHH": ":(("
         },
         {
             "Boss": "Oryx",
             "Crit": "1",
-            "HP": "14969898"
+            "HP": "14969898",
+            "Time": "20"
         }
     ],
     "Root of Nightmares": [
         {
             "Boss": "Explicator",
             "Crit": "1",
-            "HP": "9542276"
+            "HP": "9542276",
+            "Time": "21",
+            "RAHHHHHHH": ":(("
         },
         {
             "Boss": "Nezarec",
             "Crit": "1",
-            "HP": "8731311"
+            "HP": "8731311",
+            "Time": "30"
         }
     ],
     "Crota's End": [
         {
             "Boss": "Ir Yut",
             "Crit": "1",
-            "HP": "10232269"
+            "HP": "10232269",
+            "Time": "35",
+            "RAHHHHHHH": ":(("
         },
         {
             "Boss": "Crota",
             "Crit": "1",
-            "HP": "15940755"
+            "HP": "15940755",
+            "Time": "35",
+            "RAHHHHHHH": ":(("
         }
     ],
     "The Shattered Throne": [
         {
             "Boss": "Vorgeth",
             "Crit": "1",
-            "HP": "985110"
+            "HP": "985110",
+            "Time": "25"
         },
         {
             "Boss": "Dul Incaru",
             "Crit": "0.57",
-            "HP": "509510"
+            "HP": "509510",
+            "Time": "30"
         }
     ],
     "Pit of Heresy": [
         {
             "Boss": "Zulmak",
             "Crit": "1",
-            "HP": "2656280"
+            "HP": "2656280",
+            "Time": "30"
         }
     ],
     "Prophecy": [
         {
             "Boss": "Phalanx Echo",
             "Crit": "1",
-            "HP": "1634057"
+            "HP": "1634057",
+            "Time": "30"
         },
         {
             "Boss": "Kell Echo",
             "Crit": "1",
-            "HP": "4473801"
+            "HP": "4473801",
+            "Time": "80"
         }
     ],
     "Grasp of Avarice": [
         {
             "Boss": "Phry'zhia",
             "Crit": "1",
-            "HP": "4339871"
+            "HP": "4339871",
+            "Time": "25"
         },
         {
             "Boss": "Avarokk",
             "Crit": "1",
-            "HP": "4677314"
+            "HP": "4677314",
+            "Time": "20"
         }
     ],
     "Duality": [
         {
             "Boss": "Gahlran",
             "Crit": "1",
-            "HP": "4544346"
+            "HP": "4544346",
+            "Time": "35"
         },
         {
             "Boss": "Ka'hok Emonut Uroa",
             "Crit": "1",
-            "HP": "926830"
+            "HP": "926830",
+            "RAHHHHHHH": ":(("
         },
         {
             "Boss": "Caiatl",
             "Crit": "1",
-            "HP": "4020963"
+            "HP": "4020963",
+            "Time": "24"
         }
     ],
     "Spire of the Watcher": [
         {
             "Boss": "Akelous",
             "Crit": "1",
-            "HP": "4736368"
+            "HP": "4736368",
+            "Time": "30"
         },
         {
             "Boss": "Persys",
             "Crit": "1",
-            "HP": "6230419"
+            "HP": "6230419",
+            "Time": "30"
         }
     ],
     "Ghosts of the Deep": [
         {
             "Boss": "Ecthar",
             "Crit": "1",
-            "HP": "7829461"
+            "HP": "7829461",
+            "Time": "30"
         },
         {
             "Boss": "Simmumah",
             "Crit": "1",
-            "HP": "6653184"
+            "HP": "6653184",
+            "Time": "50"
         }
     ],
     "Warlord's Ruin": [
         {
             "Boss": "Rathil",
             "Crit": "1",
-            "HP": "4708542"
+            "HP": "4708542",
+            "Time": "18"
         },
         {
             "Boss": "Locus",
             "Crit": "1",
-            "HP": "10667612"
+            "HP": "10667612",
+            "Time": "60"
         },
         {
             "Boss": "Hefnd",
             "Crit": "1",
-            "HP": "11055956"
+            "HP": "11055956",
+            "Time": "15"
         }
     ]
 }

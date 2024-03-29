@@ -1,13 +1,8 @@
-fetch('bosshp.json')
-    .then(res => res.json())
-    .then(obj => {
-        console.log(obj)
-        let x = Object.assign({}, groupByKey(obj, 'Activity'))
-        console.log(x)
-        console.log(JSON.stringify(x))
-    })
-
 const darkModeToggle = document.getElementById("darkmode")
+const table = document.getElementById("tab")
+const encounter = document.getElementById("encounter")
+const data = document.getElementById("data")
+var obj
 
 if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
     document.body.classList.toggle("dark")
@@ -24,16 +19,45 @@ function toggleMode() {
     document.body.classList.toggle("dark")
 }
 
-function groupByKey(obj, key = "") {
-    let temp = new Array()
-    Object.entries(obj).forEach(x => {
-        let y = x[1][key]
-        delete x[1][key]
-        if (!Object.keys(temp).includes(y)) {
-            temp[y] = [x[1]]
-        }else{
-            temp[y].push(x[1])
-        }
-    })
-    return temp
+
+function encounterSpecifics(values) {
+    encounter.innerHTML = ''
+    for (const [keys, vals] of Object.entries(values)) {
+        let elem = document.createElement('button')
+        elem.innerText = values[keys]['Boss']
+        elem.onclick = function () { bossSpecifics(values[keys]) }
+        encounter.appendChild(elem)
+    }
 }
+
+function bossSpecifics(val) {
+    data.innerText = ''
+
+    let key = document.createElement('tr')
+    let va = document.createElement('tr')
+    for (const [keys, vals] of Object.entries(val)) {
+        if(keys == 'Boss'){
+            continue
+        }
+        let x = document.createElement('th')
+        x.innerText = keys
+        let y = document.createElement('th')
+        y.innerText = vals
+        key.appendChild(x)
+        va.appendChild(y)
+    }
+    data.appendChild(key)
+    data.appendChild(va)
+}
+
+fetch('raidshp.json')
+    .then(res => res.json())
+    .then(data => {
+        obj = data
+        Object.keys(obj).forEach(x => {
+            let el = document.createElement('button')
+            el.innerText = x
+            el.onclick = function () { encounterSpecifics(obj[x]) }
+            table.appendChild(el)
+        })
+    })
